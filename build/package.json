@@ -1,0 +1,23 @@
+{
+  "name": "Webpack-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iliqvelkov/WebpackProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iliqvelkov/WebpackProject/issues"
+  },
+  "homepage": "https://github.com/iliqvelkov/WebpackProject#readme",
+  "devDependencies": {
+    "webpack": "^1.13.1"
+  }
+}
